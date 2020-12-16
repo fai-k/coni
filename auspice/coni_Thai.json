@@ -18,6 +18,11 @@
         "type": "categorical"
       },
       {
+        "key": "Nextstrain_clade",
+        "title": "Nextsrtain clade",
+        "type": "categorical"
+      },
+      {
         "key": "pangolin_lineage",
         "title": "Pangolin lineage",
         "type": "categorical"
@@ -425,6 +430,7 @@
     ],
     "panels": [
       "tree",
+      "map",
       "entropy"
     ],
     "title": "Genomic epidemiology of novel coronavirus - Thai-focused subsampling",

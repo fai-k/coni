@@ -18,11 +18,6 @@
         "type": "categorical"
       },
       {
-        "key": "Nextstrain_clade",
-        "title": "Nextsrtain clade",
-        "type": "categorical"
-      },
-      {
         "key": "pangolin_lineage",
         "title": "Pangolin lineage",
         "type": "categorical"

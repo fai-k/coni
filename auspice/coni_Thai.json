@@ -219,7 +219,7 @@
       "branch_label": "none",
       "color_by": "pangolin_lineage",
       "distance_measure": "num_date",
-      "geo_resolution": "country",
+      "geo_resolution": "division",
       "map_triplicate": true
     },
     "filters": [

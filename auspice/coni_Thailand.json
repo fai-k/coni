@@ -463,8 +463,7 @@
     "panels": [
       "tree",
       "map",
-      "entropy",
-      "frequencies"
+      "entropy"
     ],
     "title": "Genomic epidemiology of novel coronavirus - Thailand-focused subsampling",
     "updated": "2020-12-24"

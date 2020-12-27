@@ -243,7 +243,9 @@
       "division",
       "country",
       "region",
-      "author"
+      "author",
+      "submitting_lab",
+      "originating_lab"
     ],
     "genome_annotations": {
       "E": {

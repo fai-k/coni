@@ -48,42 +48,54 @@
         "scale": [
           [
             "Trang",
-            "#3F52CD"
+            "#403CC5"
           ],
           [
             "Phuket",
-            "#4681CA"
+            "#4067CF"
           ],
           [
             "Samut Prakarn",
-            "#70B487"
+            "#4A8BC3"
           ],
           [
             "Bangkok",
-            "#90BC65"
+            "#5AA4A9"
           ],
           [
             "Nonthaburi",
-            "#B4BD4C"
+            "#6FB488"
           ],
           [
             "Pathum Thani",
-            "#D3B240"
+            "#8BBB69"
           ],
           [
             "Nakhonnayok",
-            "#E59638"
+            "#A9BD53"
+          ],
+          [
+            "Chonburi",
+            "#C7B944"
+          ],
+          [
+            "Phitsanulok",
+            "#DDA93C"
+          ],
+          [
+            "Samut Sakhon",
+            "#E68A35"
           ],
           [
             "Thailand",
-            "#E4642E"
+            "#E35C2C"
           ],
           [
             "Hubei",
             "#DB2823"
           ]
         ],
-        "title": "Admin Division",
+        "title": "Division",
         "type": "categorical"
       },
       {
@@ -225,7 +237,7 @@
     "description": "This work is made possible by the open sharing of genetic data by research groups from all over the world. We gratefully acknowledge their contributions.",
     "display_defaults": {
       "branch_label": "none",
-      "color_by": "pangolin_lineage",
+      "color_by": "division",
       "distance_measure": "num_date",
       "geo_resolution": "division",
       "map_triplicate": true

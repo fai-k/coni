@@ -316,6 +316,144 @@
       },
       {
         "key": "originating_lab",
+        "scale": [
+          [
+            "Bamrasnaradura Hospital",
+            "#5E1D9D"
+          ],
+          [
+            "bumrungrad international hospital",
+            "#4E21AC"
+          ],
+          [
+            "Center for Research and Innovation, Faculty of Medical Technology, Mahidol University",
+            "#472DB8"
+          ],
+          [
+            "Central Chest Institute of Thailand",
+            "#403AC4"
+          ],
+          [
+            "COVID-19 Network Investigations (CONI) Alliance",
+            "#3F4ACA"
+          ],
+          [
+            "Emergency Operation Center, (EOC)",
+            "#3E5ACF"
+          ],
+          [
+            "General Hospital of Central Theater Command of People's Liberation Army of China",
+            "#4169CF"
+          ],
+          [
+            "H.R.H. Maha Chakri Sirindhorn Medical Center",
+            "#4378CD"
+          ],
+          [
+            "Hospital for Tropical Diseases",
+            "#4784C7"
+          ],
+          [
+            "Institute for Urban Disease Control and Prevention",
+            "#4C90C0"
+          ],
+          [
+            "National Institute for Communicable Disease Control and Prevention (ICDC) Chinese Center for Disease Control and Prevention (China CDC)",
+            "#519AB7"
+          ],
+          [
+            "National Institute of Health. Department of medical Sciences, Ministry of Public Health, Thailand",
+            "#58A2AC"
+          ],
+          [
+            "Panyananthaphikkhu Chonprathan Medical Center",
+            "#5FA9A0"
+          ],
+          [
+            "Panyanunthaphikkhu Chonprathan Medical Center (PCMC)",
+            "#67AF94"
+          ],
+          [
+            "Phramongkutklao Hospital",
+            "#6FB488"
+          ],
+          [
+            "Praram 9 Hospital",
+            "#79B77C"
+          ],
+          [
+            "Rajavithi Hospital",
+            "#83BA70"
+          ],
+          [
+            "Ramathibodi Hospital",
+            "#8EBC67"
+          ],
+          [
+            "Ramkhamhaeng Hospital",
+            "#99BD5D"
+          ],
+          [
+            "Regional Medical Sciences Center 1/1 Chiang Rai",
+            "#A5BE56"
+          ],
+          [
+            "Regional Medical Sciences Center 11/1 phuket",
+            "#B0BD4F"
+          ],
+          [
+            "Regional medical sciences center 2 Phitsanulok",
+            "#BBBC49"
+          ],
+          [
+            "Regional Medical Sciences Center 5 Samut Songkhram",
+            "#C5B945"
+          ],
+          [
+            "Regional medical sciences center 6 chonburi",
+            "#CFB541"
+          ],
+          [
+            "Singburi Hospital",
+            "#D7AF3E"
+          ],
+          [
+            "Siriraj hospital",
+            "#DEA83C"
+          ],
+          [
+            "Siriraj Hospital, Mahidol University",
+            "#E29D39"
+          ],
+          [
+            "Synphaet Hospital",
+            "#E69237"
+          ],
+          [
+            "Thammasat University Hospital",
+            "#E68334"
+          ],
+          [
+            "Trang Hospital",
+            "#E67431"
+          ],
+          [
+            "Urban Institute for Disease Prevention and Control",
+            "#E3612D"
+          ],
+          [
+            "Vajira Hospital",
+            "#E04E2A"
+          ],
+          [
+            "Vibharam Hospital",
+            "#DE3B26"
+          ],
+          [
+            "World Medical Hospital",
+            "#DB2823"
+          ]
+        ],
         "title": "Originating Lab",
         "type": "categorical"
       },

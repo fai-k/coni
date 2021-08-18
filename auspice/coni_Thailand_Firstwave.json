@@ -126,19 +126,23 @@
         "scale": [
           [
             "Samut Prakan",
-            "#4A8CC2"
+            "#4784C8"
           ],
           [
             "Bangkok",
-            "#71B486"
+            "#67AE95"
           ],
           [
             "Nonthaburi",
-            "#ABBD52"
+            "#98BD5E"
           ],
           [
             "Pathum Thani",
-            "#DEA73C"
+            "#CDB642"
+          ],
+          [
+            "Thailand",
+            "#E68634"
           ]
         ],
         "title": "Admin Division",
